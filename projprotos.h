@@ -1,0 +1,6 @@
+#if !defined(PROJPROTOS_H)
+#define PROJPROTOS_H
+
+LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
+
+#endif
